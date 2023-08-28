@@ -23,3 +23,4 @@ It will show up on the main github project's page
 * Sindri A favorite food is kfc
 * Tinna's favorite food is chicken
 * Valens favorite food is egg fried rice
+* Óttar's favorite food is hamburgers
