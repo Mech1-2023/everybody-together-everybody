@@ -12,4 +12,6 @@ It will show up on the main github project's page
 * Ragnar's favorite is classified information (its not)
 * Sindri's favorite food is pizza
 * Tom's favorite food is pizza 
+* Sindri A favorite food is kfc
+
 
