@@ -10,3 +10,4 @@ Lukas favorite food is risotto :P
 Leon's favorite sweets is chocolate
 Sindri's favorite food is pizza
 Ragnar's favorite is classified information (its not)
+Tom's favorite food is pizza 
