@@ -12,8 +12,10 @@ It will show up on the main github project's page
 * Ragnar's favorite is classified information (its not)
 * Sindri's favorite food is pizza
 * Tom's favorite food is pizza 
+* Tinna's favorate food is chicken
 * Sæþór's favorite food is Blueberry muffin
 * Arnar's favorite food is Lambalæri
 * Sophias favorite food is potato pancakes
 * Ólöf's favorite food is lasagna
 * Jakobs favorite food is stew
+
