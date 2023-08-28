@@ -20,4 +20,4 @@ It will show up on the main github project's page
 * Ólöf's favorite food is lasagna
 * Jakobs favorite food is stew
 * Gudrun's favorite food is spaghetti
-
+* Sindri A favorite food is kfc
