@@ -14,4 +14,5 @@ It will show up on the main github project's page
 * Tom's favorite food is pizza 
 * Tinna's favorate food is chicken
 * Sæþór's favorite food is Blueberry muffin
+* Sophias favorite food is potato pancakes
 
