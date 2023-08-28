@@ -6,3 +6,5 @@ It will show up on the main github project's page
 Joe's favorite restaurant is BK Kjuklingur
 Elmar´s favorite food is chocolate mouse
 Lukas favorite food is risotto :P
+Leon's favorite sweets is chocolate
+
