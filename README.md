@@ -8,4 +8,4 @@ Villi's favorite restaurant is KENNYYYY
 Elmar´s favorite food is chocolate mouse
 Lukas favorite food is risotto :P
 Leon's favorite sweets is chocolate
-
+Sindri's favorite food is pizza
