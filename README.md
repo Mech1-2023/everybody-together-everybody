@@ -4,3 +4,4 @@ It will show up on the main github project's page
 
 # Favorite foods
 Joe's favorite restaurant is BK Kjuklingur
+Gudrun's favorite food is spaghetti
