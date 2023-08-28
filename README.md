@@ -18,7 +18,7 @@ It will show up on the main github project's page
 * Arnar's favorite food is Lambalæri
 * Sophias favorite food is potato pancakes
 * Ólöf's favorite food is lasagna
-* Jakobs favorite food is stew
+* Jakobs favorite food is Pizza.
 * Gudrun's favorite food is spaghetti
 * Sindri A favorite food is kfc
 * Tinna's favorite food is chicken
