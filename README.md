@@ -22,3 +22,4 @@ It will show up on the main github project's page
 * Gudrun's favorite food is spaghetti
 * Sindri A favorite food is kfc
 * Tinna's favorite food is chicken
+* Valens favorite food is egg fried rice
