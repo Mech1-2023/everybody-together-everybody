@@ -8,5 +8,5 @@ Villi's favorite restaurant is KENNYYYY
 Elmar´s favorite food is chocolate mouse
 Lukas favorite food is risotto :P
 Leon's favorite sweets is chocolate
+Ragnar's favorite is classified information (its not)
 Tom's favorite food is pizza 
-Lukas favorite food is risotto :P
