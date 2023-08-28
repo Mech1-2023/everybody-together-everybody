@@ -13,4 +13,5 @@ It will show up on the main github project's page
 * Sindri's favorite food is pizza
 * Tom's favorite food is pizza 
 * Tinna's favorate food is chicken
+* Sæþór's favorite food is Blueberry muffin
 
