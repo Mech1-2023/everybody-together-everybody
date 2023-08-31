@@ -24,3 +24,4 @@ It will show up on the main github project's page
 * Tinna's favorite food is chicken
 * Valens favorite food is egg fried rice
 * Óttar's favorite food is hamburgers
+* Ernirs favorite food is Pasta
